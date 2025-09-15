@@ -11,8 +11,9 @@ def gcd(a, b):
 # Once the while loop terminates, i.e. when the argument in slot 2 is zero, the
 # argument in slot 1 is the gcd. This returns the absolute value of that number.
 
-import math
+# import math
 # brings in different math functions in python, in particular the floor function
+# commented out, no longer using floor function
 
 
 while True:
